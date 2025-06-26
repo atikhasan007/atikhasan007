@@ -1,39 +1,74 @@
 <h1 align="center">Hi there 👋, I'm Atik Hasan</h1>
 
 <p align="center">
-  🚀 A passionate <b>Frontend Developer</b> & <b>Tech Enthusiast</b> from Bangladesh 🇧🇩<br>
-  💡 I love solving problems, building intuitive UI, and learning new technologies.
+  🎓 Final Year CS Student | 💻 1000+ Problem Solved | 📊 Aspiring Data Scientist <br>
+  🚀 I love turning data into actionable insights using code & models!
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools I Use
+### 🧠 Skills Summary
 
-<p align="center">
+- 💻 **Problem Solving:** Solved 1000+ algorithmic problems using C++, JavaScript, and Python.
+- 📊 **Data Science:** Exploring tools & techniques for data wrangling, visualization, and machine learning.
+- 🎯 **Goal:** To become a professional Data Scientist & contribute to real-world data-driven solutions.
+
+---
+
+### 🛠️ Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-### 📈 My GitHub Stats
+### 🧪 Data Science Stack (Beginner → Intermediate)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atikhasan007&show_icons=true&theme=radical" alt="Atik's GitHub stats" />
-</p>
+**Languages:**
+- Python (NumPy, Pandas, Matplotlib)
+- SQL (DDL, DML, DQL, Joins, Indexing, Triggers)
+
+**Techniques (10+):**
+1. Data Cleaning & Preprocessing  
+2. EDA (Exploratory Data Analysis)  
+3. Feature Engineering  
+4. Supervised Learning (Classification, Regression)  
+5. Unsupervised Learning (Clustering)  
+6. Ensemble Methods (Random Forest, XGBoost)  
+7. Model Evaluation (Confusion Matrix, ROC, Accuracy)  
+8. Deep Learning Basics (CNN, LSTM, GAN)  
+9. Explainable AI (SHAP, LIME)  
+10. Visualization (Seaborn, Plotly)
+
+**Tools:**
+- Jupyter Notebook, Google Colab
+- Scikit-learn, TensorFlow, Keras
+- Tableau (basic), Excel
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Additional Development Tools
+
+- Node.js, Express.js (Backend Knowledge)
+- MongoDB, MySQL, PostgreSQL
+- Git, GitHub, VS Code
+- Postman for API testing
+
+---
+
+### 🚀 Achievements
+
+- ✅ 1000+ Problems Solved (C++, Python, JavaScript)
+- ✅ Built 12+ Projects with practical use of data & backend tools
+- ✅ Currently working on GANs, LSTM, Ensemble Models for research
+
+---
+
+### 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atikhasan007/" target="_blank">
