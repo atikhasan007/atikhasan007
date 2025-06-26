@@ -42,20 +42,10 @@ I also enjoy **frontend development** with modern tools like **React & Tailwind*
 
 ---
 
-## 📈 What I’m Exploring Now
-- 🤖 **Advanced ML**: Ensemble Learning, Deep Learning (CNNs, RNNs)
-- 🧠 **Research**: Multimodal Deepfake Detection (CNN + Transformers)
-- ⚙️ **MERN Stack**: MongoDB, Express.js, React.js, Node.js
-
----
-
 ## 🏆 Highlights & Achievements
 
 - ✅ Solved **1000+ programming problems** on platforms like LeetCode, Codeforces & HackerRank
-- 🧑‍💻 Built **12+ frontend projects** using modern tech (React, JS, Tailwind)
-- 📄 Working on a **research paper** titled:  
-  _“Prediction of Autism Spectrum Disorder Using Ensemble Learning”_
-
+- 🧑‍💻 Built **2+ frontend projects** using modern tech (React, JS, Tailwind)
 ---
 
 ## 📊 GitHub Stats
@@ -69,9 +59,9 @@ I also enjoy **frontend development** with modern tools like **React & Tailwind*
 
 ## 📫 Let’s Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/md-atik-hasan-610b07263/)
 - 💼 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 📧 Email: your.email@example.com
+- 📧 Email: atikhasan1971arik@gmail.com
 
 ---
 
