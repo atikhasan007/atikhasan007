@@ -1,50 +1,69 @@
-<h1 align="center">Hi there 👋, I'm Atik Hasan</h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Atik Hasan</span></h1>
 
 <p align="center">
-  🎓 Final Year CS Student | 💻 1000+ Problems Solved | 📊 Aspiring Data Scientist <br>
-  🚀 Passionate about transforming data into insights and solving real-world problems!
+  🎓 Final Year CS Student & Aspiring Data Scientist <br>
+  💻 1000+ Problems Solved | 🌟 Passionate Learner | 🔍 Data Enthusiast
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-success?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Lover-orange?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/1000%2B-Problems%20Solved-ff69b4?style=for-the-badge&logo=leetcode" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a **Final-Year Computer Science Student** with a strong passion for **Data Science** and **Machine Learning**.  
-I enjoy extracting meaningful patterns from data, building ML models, and making data-driven decisions.
+Hi! I'm **Atik**, a final-year CS student who loves to **play with data**, build meaningful ML models, and craft clean UI experiences.  
+I'm passionate about solving real-world problems with the power of **Data Science & Machine Learning**.
 
-I also have experience in **frontend development** and love building clean, responsive UIs.
+I also enjoy **frontend development** with modern tools like **React & Tailwind**, making interfaces that feel as good as they look.
 
-I'm currently seeking **internship** or **entry-level roles** in **Data Science**, **Machine Learning**, or **Data Analysis**.
+🔍 Currently looking for **internships** or **entry-level roles** where I can **contribute**, **learn**, and **grow** as a data enthusiast!
 
 ---
 
-## 🔧 Skills & Tools
+## 🛠️ Skills & Tools
 
 ### 📊 Data Science & ML
-- **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn)
-- **Databases:** MySQL, PostgreSQL
+- **Languages & Libraries:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`
+- **Databases:** `MySQL`, `PostgreSQL`
 - **Concepts:** Data Cleaning, EDA, Feature Engineering, Model Training
 - **ML Models:** Regression, Classification, Clustering
-- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub
+- **Tools:** Jupyter Notebook, Google Colab, Git & GitHub
 
 ### 🌐 Web Development
-- **Languages:** HTML5, CSS3, JavaScript
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
 - **Frameworks:** React.js, Tailwind CSS
-- **Others:** Responsive Design, Component-based UI, VS Code
+- **Concepts:** Responsive Design, Component-based Architecture
+- **Others:** VS Code, Git, GitHub
 
 ---
 
-## 📈 Currently Exploring
-- 🤖 Advanced ML (Ensemble, Deep Learning)
-- 🧠 CNN + Transformers for Multimodal Learning
-- 🧰 Full-stack Development (MERN Stack)
+## 📈 What I’m Exploring Now
+- 🤖 **Advanced ML**: Ensemble Learning, Deep Learning (CNNs, RNNs)
+- 🧠 **Research**: Multimodal Deepfake Detection (CNN + Transformers)
+- ⚙️ **MERN Stack**: MongoDB, Express.js, React.js, Node.js
 
 ---
 
-## 🏆 Achievements
-- 🔹 Solved **1000+ algorithmic problems** using C++, Python, and JavaScript
-- 🔹 Built **12+ frontend projects** using React, HTML/CSS/JS
-- 🔹 Working on research titled **"Prediction of Autism Spectrum Disorder Using Ensemble Learning"**
+## 🏆 Highlights & Achievements
+
+- ✅ Solved **1000+ programming problems** on platforms like LeetCode, Codeforces & HackerRank
+- 🧑‍💻 Built **12+ frontend projects** using modern tech (React, JS, Tailwind)
+- 📄 Working on a **research paper** titled:  
+  _“Prediction of Autism Spectrum Disorder Using Ensemble Learning”_
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atik-arik&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atik-arik&theme=tokyonight" width="47%" />
+</p>
 
 ---
 
@@ -52,8 +71,10 @@ I'm currently seeking **internship** or **entry-level roles** in **Data Science*
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - 💼 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- ✉️ Email: your.email@example.com
+- 📧 Email: your.email@example.com
 
 ---
 
-<p align="center">💡 “Code is like humor. When you have to explain it, it’s bad.” – Cory House</p>
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>  
+</p>
