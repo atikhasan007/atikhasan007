@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-success?style=for-the-badge&logo=scikit-learn" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Lover-orange?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/1000%2B-Problems%20Solved-ff69b4?style=for-the-badge&logo=leetcode" />
+
 </p>
 
 ---
