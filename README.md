@@ -1,4 +1,7 @@
-<h1> I'm <span style="color:#007acc;">Atik Hasan</span></h1>
+<h1 align="center">
+  I'm <span style="color:#007acc;">Atik Hasan</span> 👨‍💻
+</h1>
+
 
 <p align="center">
   🎓 Final Year CSE Student & Aspiring Data Scientist <br>
