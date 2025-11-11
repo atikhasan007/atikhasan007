@@ -1,63 +1,61 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#007acc;">Atik Hasan</span></h1>
+<h1 align="center">
+  👋 Hey there! I'm <span style="color:#007acc;">Atik Hasan</span>
+</h1>
 
-<h3 align="center">A Passionate Data Science & Frontend Developer from Bangladesh 🇧🇩</h3>
+<p align="center">
+  🎓 Final Year <b>CSE Student</b> | 🌟 Aspiring <b>Data Scientist</b> <br>
+  💻 1000+ Problems Solved | 🔍 Data Enthusiast | 💡 Lifelong Learner
+</p>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 Final Year **Computer Science & Engineering Student**
-- 🌱 I’m currently learning **Machine Learning**, **Deep Learning**, and **NLP**
-- 💡 I love working with **Python**, **React**, and **Data Visualization**
-- 🧠 Exploring the world of **AI + Web Development**
-- 💬 Ask me about **Python**, **Pandas**, **Scikit-learn**, **React.js**, **Tailwind CSS**
-- 🧑‍💻 All of my projects are available at:  
-  🔗 [Portfolio](https://your-portfolio.com)
-- 📝 I publish some of my work & experiments on **Hugging Face** and **Vercel**
-- 📫 Reach me at **atikhasan1971arik@gmail.com**
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/md-atik-hasan-610b07263/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Atik%20Hasan-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:atikhasan1971arik@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Atik%20Hasan-red?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://github.com/atik-arik" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-atik--arik-black?style=for-the-badge&logo=github" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-success?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Lover-orange?style=for-the-badge&logo=tensorflow" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🧠 About Me
 
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
-</p>
+Hi! I'm **Atik**, a passionate learner who loves to **analyze data**, train **machine learning models**, and design **clean, functional web apps**.
+
+I’m always curious to explore the intersection of **data, logic, and creativity** — whether it’s building predictive models or crafting responsive UIs.
+
+🔍 **Currently exploring:** Deep Learning, NLP, and real-world ML applications  
+🚀 **Looking for:** Data Science or ML internship opportunities
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Skills & Tools
+
+### 📊 Data Science & ML
+- **Languages & Libraries:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`
+- **Databases:** `MySQL`, `PostgreSQL`
+- **Concepts:** Data Cleaning, EDA, Feature Engineering, Model Training
+- **ML Models:** Regression, Classification, Clustering
+- **Tools:** Jupyter Notebook, Google Colab, Git & GitHub
+
+### 🌐 Web Development
+- **Languages:** `HTML5`, `CSS3`, `JavaScript (ES6+)`
+- **Frameworks:** `React.js`, `Tailwind CSS`
+- **Concepts:** Responsive Design, Component-Based Architecture
+- **Others:** VS Code, Git, GitHub
+
+---
+
+## 🏆 Highlights & Achievements
+
+- ✅ Solved **1000+ programming problems** across LeetCode, Codeforces, and HackerRank  
+- 💡 Built **multiple projects** integrating ML and Web Development  
+- 🧩 Constantly learning & contributing to open-source and team projects  
+
+---
+
+## 📈 Working Progress
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atik-arik&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atik-arik&show_icons=true&theme=tokyonight" width="47%" />
@@ -65,12 +63,27 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atik-arik&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atik-arik&layout=compact&theme=tokyonight" width="47%" />
+</p>
+
+---
+
+## 📫 Let’s Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-atik-hasan-610b07263/">
+    <img src="https://img.shields.io/badge/LinkedIn-Atik%20Hasan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:atikhasan1971arik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Atik%20Hasan-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Data is the new oil, but intelligence is the refinery."</i><br>
-  💬 Always open to collaboration and learning opportunities!
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>  
 </p>
