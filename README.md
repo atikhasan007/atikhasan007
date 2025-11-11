@@ -1,30 +1,28 @@
 <h1 align="center">
-  I'm <span style="color:#007acc;">Atik Hasan</span> 👨‍💻
+  👋 Hey there! I'm <span style="color:#007acc;">Atik Hasan</span>
 </h1>
 
-
 <p align="center">
-  🎓 Final Year CSE Student & Aspiring Data Scientist <br>
-  💻 1000+ Problems Solved | 🌟 Passionate Learner | 🔍 Data Enthusiast
+  🎓 Final Year <b>CSE Student</b> | 🌟 Aspiring <b>Data Scientist</b> <br>
+  💻 1000+ Problems Solved | 🔍 Data Enthusiast | 💡 Lifelong Learner
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-success?style=for-the-badge&logo=scikit-learn" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Lover-orange?style=for-the-badge&logo=tensorflow" />
-
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Hi! I'm **Atik**, a final-year CS student who loves to **play with data**, build meaningful ML models, and craft clean UI experiences.  
-I'm passionate about solving real-world problems with the power of **Data Science & Machine Learning**.
+Hi! I'm **Atik**, a passionate learner who loves to **analyze data**, train **machine learning models**, and design **clean, functional web apps**.
 
-I also enjoy **frontend development** with modern tools like **React & Tailwind**, making interfaces that feel as good as they look.
+I’m always curious to explore the intersection of **data, logic, and creativity** — whether it’s building predictive models or crafting responsive UIs.
 
-🔍 Currently looking for **internships** or **entry-level roles** where I can **contribute**, **learn**, and **grow** as a data enthusiast!
+🔍 **Currently exploring:** Deep Learning, NLP, and real-world ML applications  
+🚀 **Looking for:** Data Science or ML internship opportunities
 
 ---
 
@@ -38,33 +36,51 @@ I also enjoy **frontend development** with modern tools like **React & Tailwind*
 - **Tools:** Jupyter Notebook, Google Colab, Git & GitHub
 
 ### 🌐 Web Development
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks:** React.js, Tailwind CSS
-- **Concepts:** Responsive Design, Component-based Architecture
+- **Languages:** `HTML5`, `CSS3`, `JavaScript (ES6+)`
+- **Frameworks:** `React.js`, `Tailwind CSS`
+- **Concepts:** Responsive Design, Component-Based Architecture
 - **Others:** VS Code, Git, GitHub
 
 ---
 
 ## 🏆 Highlights & Achievements
 
-- ✅ Solved **1000+ programming problems** on platforms like LeetCode, Codeforces & HackerRank
-- 🧑‍💻 Built **2+ frontend projects** using modern tech (React, JS, Tailwind)
+- ✅ Solved **1000+ programming problems** across LeetCode, Codeforces, and HackerRank  
+- 💡 Built **multiple projects** integrating ML and Web Development  
+- 🧩 Constantly learning & contributing to open-source and team projects  
+
 ---
 
-## 📊 GitHub Stats
+## 📈 Working Progress
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atik-arik&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atik-arik&show_icons=true&theme=tokyonight" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atik-arik&theme=tokyonight" width="47%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atik-arik&layout=compact&theme=tokyonight" width="47%" />
+</p>
+
 ---
 
 ## 📫 Let’s Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/md-atik-hasan-610b07263/)
-- 💼 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 📧 Email: atikhasan1971arik@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-atik-hasan-610b07263/">
+    <img src="https://img.shields.io/badge/LinkedIn-Atik%20Hasan-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:atikhasan1971arik@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Atik%20Hasan-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
 
 ---
 
