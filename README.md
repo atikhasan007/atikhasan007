@@ -22,7 +22,7 @@ Hi! I'm **Atik**, a passionate learner who loves to **analyze data**, train **ma
 I’m always curious to explore the intersection of **data, logic, and creativity** — whether it’s building predictive models or crafting responsive UIs.
 
 🔍 **Currently exploring:** Deep Learning, NLP, and real-world ML applications  
-🚀 **Looking for:** Data Science or ML internship opportunities
+🚀 **Looking for:** Data Science or ML/AI Software Engineer internship opportunities
 
 ---
 
