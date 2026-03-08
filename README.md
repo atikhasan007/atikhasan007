@@ -52,5 +52,3 @@ I’m always curious to explore the intersection of **data, logic, and creativit
 ---
 
 
-![Profile views](https://komarev.com/ghpvc/?username=atikhasan007)
-
