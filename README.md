@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🎓 Final Year <b>CSE Student</b> | 🌟 Aspiring <b>Data Scientist</b> <br>
+  🎓 BSc in CSE Graduate | 🌟 Aspiring <b>Data Scientist</b> <br>
   💻 1000+ Problems Solved | 🔍 Data Enthusiast | 💡 Lifelong Learner
 </p>
 
