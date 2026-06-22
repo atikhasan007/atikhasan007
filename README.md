@@ -1,54 +1,40 @@
-<h1 align="center">
-  👋 Hey there! I'm <span style="color:#007acc;">Atik Hasan</span>
-</h1>
+# Hey! Nice to see you 👋
 
-<p align="center">
-  🎓 BSc in CSE Graduate | 🌟 Aspiring <b>Data Scientist</b> <br>
-  💻 1000+ Problems Solved | 🔍 Data Enthusiast | 💡 Lifelong Learner
-</p>
+I'm Atik 😀  
+I'm a Data Science and AI Enthusiast | Developer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-success?style=for-the-badge&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Lover-orange?style=for-the-badge&logo=tensorflow" />
-</p>
-
----
-
-## 🧠 About Me
-
-Hi! I'm **Atik**, a passionate learner who loves to **analyze data**, train **machine learning models**, and design **clean, functional web apps**.
-
-I’m always curious to explore the intersection of **data, logic, and creativity** — whether it’s building predictive models or crafting responsive UIs.
-
-🔍 **Currently exploring:** Deep Learning, NLP, and real-world ML applications  
-🚀 **Looking for:** Data Science or ML/AI Software Engineer internship opportunities
+I have technical experience and interest in:
+- Machine Learning  
+- Deep Learning  
+- Generative AI  
+- Agentic AI  
+- Data Science  
+- Python Development  
+- Full Stack Development  
 
 ---
 
-## 🛠️ Skills & Tools
-
-### 📊 Data Science & ML
-- **Languages & Libraries:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`
-- **Databases:** `MySQL`, `PostgreSQL`
-- **Concepts:** Data Cleaning, EDA, Feature Engineering, Model Training
-- **ML Models:** Regression, Classification, Clustering
-- **Tools:** Jupyter Notebook, Google Colab, Git & GitHub
-
-### 🌐 Web Development
-- **Languages:** `HTML5`, `CSS3`, `JavaScript (ES6+)`
-- **Frameworks:** `React.js`, `Tailwind CSS`
-- **Concepts:** Responsive Design, Component-Based Architecture
-- **Others:** VS Code, Git, GitHub
+## 🛠 Languages and Tools:
+python tensorflow pytorch scikit-learn numpy pandas matplotlib opencv flask django git github linux mysql mongodb postman html css javascript react
 
 ---
 
-## 🏆 Highlights & Achievements
-
-- ✅ Solved **1000+ programming problems** across LeetCode, Codeforces, and HackerRank  
-- 💡 Built **multiple projects** integrating ML and Web Development  
-- 🧩 Constantly learning & contributing to open-source and team projects  
+## 🌱 My Hobbies and Interests:
+- Coding 💻  
+- Problem Solving 🧠  
+- Learning AI 🤖  
+- Exploring new tech 🚀  
 
 ---
 
+## 📫 You can also find me on:
+- GitHub: Atik  
+- LinkedIn: Atik  
+- Facebook: Atik  
+- YouTube: Atik  
 
+---
+
+## 💰 Support
+If you like my work, you can support me ❤️  
+Buy Me a Coffee ☕
