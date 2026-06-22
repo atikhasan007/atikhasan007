@@ -1,40 +1,74 @@
-# Hey! Nice to see you 👋
+<div align="center">
 
-I'm Atik 😀  
-I'm a Data Science and AI Enthusiast | Developer
+# 😎 Hey! Nice to see you.
 
-I have technical experience and interest in:
-- Machine Learning  
-- Deep Learning  
-- Generative AI  
-- Agentic AI  
-- Data Science  
-- Python Development  
-- Full Stack Development  
+# I'm MD. ATIK HASAN 😃
+
+### Data Scientist | Mentor | YouTuber @dswithbappy
+
+</div>
 
 ---
 
-## 🛠 Languages and Tools:
-python tensorflow pytorch scikit-learn numpy pandas matplotlib opencv flask django git github linux mysql mongodb postman html css javascript react
+## 🚀 About Me
+
+I'm passionate about building intelligent systems and solving real-world problems using AI and Machine Learning.
+
+## 💡 Technical Experience & Interests
+
+- 🧠 Deep Learning
+- 🤖 Machine Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing (NLP)
+- ⚙️ MLOps
+- ✨ Generative AI
+- 🔌 Microcontrollers
+- 🤖 Robotics
 
 ---
 
-## 🌱 My Hobbies and Interests:
-- Coding 💻  
-- Problem Solving 🧠  
-- Learning AI 🤖  
-- Exploring new tech 🚀  
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,docker,git,linux,mongodb,mysql,html,css,bootstrap" />
+</p>
 
 ---
 
-## 📫 You can also find me on:
-- GitHub: Atik  
-- LinkedIn: Atik  
-- Facebook: Atik  
-- YouTube: Atik  
+## 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-## 💰 Support
-If you like my work, you can support me ❤️  
-Buy Me a Coffee ☕
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://youtube.com/@YOUR_CHANNEL">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" />
+</a>
+
+<a href="https://twitter.com/YOUR_HANDLE">
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
