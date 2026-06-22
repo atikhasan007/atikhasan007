@@ -4,7 +4,7 @@
 
 # I'm MD. ATIK HASAN 😃
 
-### Data Scientist | Mentor | YouTuber @dswithbappy
+### Data Scientist | 
 
 </div>
 
@@ -20,11 +20,8 @@ I'm passionate about building intelligent systems and solving real-world problem
 - 🤖 Machine Learning
 - 👁️ Computer Vision
 - 💬 Natural Language Processing (NLP)
-- ⚙️ MLOps
 - ✨ Generative AI
-- 🔌 Microcontrollers
-- 🤖 Robotics
-
+- ⚡ Agentic AI
 ---
 
 ## 🛠️ Languages & Tools
