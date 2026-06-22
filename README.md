@@ -4,7 +4,7 @@
 
 # I'm MD. ATIK HASAN 😃
 
-### Data Scientist | 
+### Data Scientist 
 
 </div>
 
