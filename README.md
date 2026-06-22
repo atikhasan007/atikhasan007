@@ -1,6 +1,6 @@
 <div align="center">
 
-# 😎 Hey! Nice to see you.
+# 👋 Hey! Welcome to my GitHub profile.
 
 # I'm MD. ATIK HASAN 😃
 
